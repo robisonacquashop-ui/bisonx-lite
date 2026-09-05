@@ -9,6 +9,13 @@ scripts Python.
 Uso pessoal liberado para o usuário final. O código-fonte não é público e está
 protegido por termos de uso revogáveis (veja o arquivo [LICENSE](LICENSE)).
 
+## Baixar diretamente
+
+O programa pronto está no link abaixo (pasta zipada, com prazo de uso de
+6 meses — até 05/03/2027). Baixe, descompacte e rode o `install.bat`:
+
+- **BISONX Lite v1.0**: https://github.com/robisonacquashop-ui/bisonx-lite/releases
+
 ---
 
 ## O que o BISONX é

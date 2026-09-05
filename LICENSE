@@ -39,6 +39,13 @@ As cópias que já tinham sido baixadas antes da revogação permanecem na
 posse de quem as obteve, mas, se a licença for revogada, deixam de estar
 autorizadas: usar o programa depois da revogação é uso não autorizado.
 
+3B. PACOTE PRONTO PARA DOWNLOAD
+O autor pode disponibilizar o programa em forma de PACOTE PRONTO (pasta
+zipada) na página do projeto, para download direto por qualquer pessoa.
+Baixar, descompactar e usar o pacote é o uso permitido por esta licença.
+O código dentro do pacote continua protegido: não pode ser copiado para
+outros projetos, alterado, vendido nem republicado (item 2).
+
 4. DIREITOS DO AUTOR
 Todo o código, a ideia, o nome "BISONX" e as marcas permanecem de
 propriedade exclusiva do autor. Esta licença cobre apenas o USO e não
