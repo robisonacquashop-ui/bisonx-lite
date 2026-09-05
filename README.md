@@ -11,10 +11,12 @@ protegido por termos de uso revogáveis (veja o arquivo [LICENSE](LICENSE)).
 
 ## Baixar diretamente
 
-O programa pronto está no link abaixo (pasta zipada, com prazo de uso de
-6 meses — até 05/03/2027). Baixe, descompacte e rode o `install.bat`:
+O programa pronto (código fechado em .exe) está no link abaixo. Baixe o
+`.exe`, instale o [Ollama](https://ollama.com) e abra o programa. Tem prazo de
+uso de 6 meses — até 05/03/2027:
 
-- **BISONX Lite v1.0**: https://github.com/robisonacquashop-ui/bisonx-lite/releases
+- **BISONX Lite v1.1 (.exe — recomendado)**: https://github.com/robisonacquashop-ui/bisonx-lite/releases/download/v1.1/BISONX_Lite.exe
+- **BISONX Lite v1.0 (pasta zipada com código)**: https://github.com/robisonacquashop-ui/bisonx-lite/releases
 
 ---
 
