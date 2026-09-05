@@ -121,10 +121,11 @@ arquivo [LICENSE](LICENSE).
 As conversas e o que você digita **nunca** saem do seu computador — a IA roda
 toda local. A única exceção, e só quando configurada pelo autor, é um
 "bate-ponto diário" opcional: 1 vez por dia o programa pode enviar ao autor
-**apenas** o número da matrícula da cópia, a data e a quantidade de comandos de
-programação usados naquele dia (para estatísticas de uso). Nada do que você
-digita é enviado. Você pode desativar na hora apagando o arquivo
-`estado/telemetria.json`.
+**apenas** o número da matrícula da cópia (gerada automaticamente no primeiro
+uso), a data e a quantidade de comandos de programação usados naquele dia
+(para estatísticas de uso — é assim que o autor sabe quantas pessoas estão
+usando). Nada do que você digita é enviado. Você pode desativar na hora
+apagando o arquivo `estado/telemetria.json`.
 
 ## Diferença entre Lite e Pro
 

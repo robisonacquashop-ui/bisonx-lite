@@ -32,10 +32,9 @@ Quem receber fica sujeito aos MESMOS termos.
 3.1 BATE-PONTO DIÁRIO (ESTATÍSTICAS)
 Quando o autor tiver configurado o programa, ele pode enviar AUTOMATICAMENTE,
 1 vez por dia, APENAS estes dados ao autor para estatísticas de uso:
-- o número da matrícula da cópia;
+- o número da matrícula da cópia (gerado automaticamente no primeiro uso);
 - a data do envio;
-- a quantidade de comandos de programação usados naquele dia;
-- a versão do programa.
+- a quantidade de comandos de programação usados naquele dia.
 NUNCA são enviados: conversas, textos, nomes, arquivos do usuário, senhas ou
 qualquer conteúdo que a pessoa digitar. O envio só acontece se estiver
 configurado pelo autor e é feito de forma silenciosa, sem atrapalhar o uso.
