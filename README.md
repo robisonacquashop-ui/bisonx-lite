@@ -1,10 +1,10 @@
 # BISONX Lite
 
-Assistente de IA **100% local e gratuito** que roda direto no seu computador,
-sem internet, sem nuvem e sem assinatura. Ele conversa com você usando modelos
-de IA que ficam instalados na sua própria máquina (via [Ollama](https://ollama.com))
-e consegue criar arquivos, criar projetos, ler/listar arquivos e rodar scripts
-Python.
+Assistente de IA **gratuito e focado em privacidade** que roda direto no seu
+computador. As respostas são geradas **sem nuvem e sem assinatura**: modelos de
+IA locais via [Ollama](https://ollama.com), instalados na sua própria máquina.
+Ele consegue criar arquivos, criar projetos, ler/listar arquivos e rodar
+scripts Python.
 
 Uso pessoal liberado para o usuário final. O código-fonte não é público e está
 protegido por termos de uso revogáveis (veja o arquivo [LICENSE](LICENSE)).
@@ -95,7 +95,7 @@ funciona de ponta a ponta.
 
 | Recurso | Lite (gratuita) |
 |---|---|
-| Conexão com a internet/nuvem | Não (100% local) |
+| Respostas da IA | Locais, na sua máquina (sem nuvem) |
 | Integração com WhatsApp | Não |
 | Modelos de IA | Somente locais (phi3:mini / llama3.2) |
 | Comandos de programação | Até 50 por dia |
@@ -115,6 +115,16 @@ desde que sem alterações e sem cobrança. A licença é **revogável a qualque
 momento** pelo autor — ao receber a revogação, você deve parar de usar e apagar
 as cópias. O uso do programa significa que você aceita os termos completos do
 arquivo [LICENSE](LICENSE).
+
+## Privacidade e estatísticas de uso
+
+As conversas e o que você digita **nunca** saem do seu computador — a IA roda
+toda local. A única exceção, e só quando configurada pelo autor, é um
+"bate-ponto diário" opcional: 1 vez por dia o programa pode enviar ao autor
+**apenas** o número da matrícula da cópia, a data e a quantidade de comandos de
+programação usados naquele dia (para estatísticas de uso). Nada do que você
+digita é enviado. Você pode desativar na hora apagando o arquivo
+`estado/telemetria.json`.
 
 ## Diferença entre Lite e Pro
 
