@@ -116,16 +116,12 @@ momento** pelo autor — ao receber a revogação, você deve parar de usar e ap
 as cópias. O uso do programa significa que você aceita os termos completos do
 arquivo [LICENSE](LICENSE).
 
-## Privacidade e estatísticas de uso
+## Privacidade
 
-As conversas e o que você digita **nunca** saem do seu computador — a IA roda
-toda local. A única exceção, e só quando configurada pelo autor, é um
-"bate-ponto diário" opcional: 1 vez por dia o programa pode enviar ao autor
-**apenas** o número da matrícula da cópia (gerada automaticamente no primeiro
-uso), a data e a quantidade de comandos de programação usados naquele dia
-(para estatísticas de uso — é assim que o autor sabe quantas pessoas estão
-usando). Nada do que você digita é enviado. Você pode desativar na hora
-apagando o arquivo `estado/telemetria.json`.
+O programa **não envia nada** do seu computador: sem bate-ponto, sem
+estatísticas, sem coleta de dados. Tudo o que você conversa e digita fica na
+sua máquina. A única informação sobre o uso da divulgação é a do próprio
+GitHub (quantas pessoas viram ou baixaram a página do projeto).
 
 ## Diferença entre Lite e Pro
 

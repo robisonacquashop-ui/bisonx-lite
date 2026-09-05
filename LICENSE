@@ -29,18 +29,6 @@ Você PODE repassar o programa em uso para outra pessoa, contanto que:
 - o autor não tenha revogado a sua licença.
 Quem receber fica sujeito aos MESMOS termos.
 
-3.1 BATE-PONTO DIÁRIO (ESTATÍSTICAS)
-Quando o autor tiver configurado o programa, ele pode enviar AUTOMATICAMENTE,
-1 vez por dia, APENAS estes dados ao autor para estatísticas de uso:
-- o número da matrícula da cópia (gerado automaticamente no primeiro uso);
-- a data do envio;
-- a quantidade de comandos de programação usados naquele dia.
-NUNCA são enviados: conversas, textos, nomes, arquivos do usuário, senhas ou
-qualquer conteúdo que a pessoa digitar. O envio só acontece se estiver
-configurado pelo autor e é feito de forma silenciosa, sem atrapalhar o uso.
-Se a pessoa não quiser esse envio, basta apagar o arquivo
-'estado/telemetria.json' — o programa para de enviar na hora.
-
 4. DIREITOS DO AUTOR
 Todo o código, a ideia, o nome "BISONX" e as marcas permanecem de
 propriedade exclusiva do autor. Esta licença cobre apenas o USO e não
