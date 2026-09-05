@@ -111,10 +111,11 @@ todos os dias à 0h, e os projetos podem ser removidos a qualquer momento com
 O BISONX Lite é um programa original do autor. Você pode **usar** gratuitamente
 no seu computador, mas **não pode copiar, modificar nem vender** o código, nem
 publicá-lo em qualquer lugar. Você pode repassar o programa para outra pessoa,
-desde que sem alterações e sem cobrança. A licença é **revogável a qualquer
-momento** pelo autor — ao receber a revogação, você deve parar de usar e apagar
-as cópias. O uso do programa significa que você aceita os termos completos do
-arquivo [LICENSE](LICENSE).
+desde que sem alterações e sem cobrança. A disponibilização gratuita vale por
+**6 meses** a contar da publicação; ao fim desse prazo o autor pode retirar a
+divulgação e **revogar a licença de todos** a qualquer momento. O uso do
+programa significa que você aceita os termos completos do arquivo
+[LICENSE](LICENSE).
 
 ## Privacidade
 
