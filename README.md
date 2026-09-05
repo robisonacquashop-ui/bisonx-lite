@@ -147,8 +147,9 @@ avançados, pensada para uso profissional:
 | Projetos ativos | 3 | Ilimitados |
 | Foco | Aprendizado e uso leve | Automação profissional |
 
-Para saber mais sobre a versão Pro, entre em contato pelo perfil do projeto:
-https://github.com/robisonacquashop-ui
+Para saber mais sobre a versão Pro, entre em contato pelo e-mail:
+**robisonacquashop@gmail.com** (ou pelo perfil do projeto:
+https://github.com/robisonacquashop-ui)
 
 ## Licença
 
