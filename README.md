@@ -113,9 +113,10 @@ no seu computador, mas **não pode copiar, modificar nem vender** o código, nem
 publicá-lo em qualquer lugar. Você pode repassar o programa para outra pessoa,
 desde que sem alterações e sem cobrança. A disponibilização gratuita vale por
 **6 meses** a contar da publicação; ao fim desse prazo o autor pode retirar a
-divulgação e **revogar a licença de todos** a qualquer momento. O uso do
-programa significa que você aceita os termos completos do arquivo
-[LICENSE](LICENSE).
+divulgação e **revogar a licença de todos** a qualquer momento. Esse prazo está
+**gravado dentro do programa**: ao chegar em 05/03/2027 ele para de funcionar
+sozinho e orienta a pessoa a contatar o autor. O uso do programa significa que
+você aceita os termos completos do arquivo [LICENSE](LICENSE).
 
 ## Privacidade
 
